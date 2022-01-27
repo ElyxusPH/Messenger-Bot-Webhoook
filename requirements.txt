@@ -1,0 +1,6 @@
+colorama
+flask
+datetime
+requests
+dotenv
+logging
