@@ -13,13 +13,9 @@ $ python --version
 
 Run the following:
 ```shell script
-pkg install git -y 
-pkg install python -y 
-git clone https://github.com/ElyxusPH/Document-Gen.git
-cd Doc-Gen
-pkg install build-essential
+git https://github.com/ElyxusPH/Messenger-Bot-Webhoook.git
+cd Messenger-Bot-Webhoook
 pip install -r requirements.txt
-python3 main.py
 ```
 
 ### Contact
