@@ -13,9 +13,10 @@ $ python --version
 
 Run the following:
 ```shell script
-git https://github.com/ElyxusPH/Messenger-Bot-Webhoook.git
+git clone https://github.com/ElyxusPH/Messenger-Bot-Webhoook.git
 cd Messenger-Bot-Webhoook
 pip install -r requirements.txt
+enter your private keys at ".env" file
 ```
 
 ### Contact
