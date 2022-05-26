@@ -1,6 +1,6 @@
 colorama
 flask
-datetime
 requests
-dotenv
+python-dotenv
 logging
+datetime
